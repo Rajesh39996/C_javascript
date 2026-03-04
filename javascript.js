@@ -1,0 +1,8 @@
+let a=10
+let b=20.5
+let c="30"
+let d="rahul"
+let e=true
+let f=false
+let g;
+console.log(a+b)
