@@ -4,4 +4,3 @@ function get_DT(){
     //document.writeln("11/03/2026")
     document.writeln(cdt)
 }
-get_DT()
