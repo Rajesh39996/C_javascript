@@ -1,0 +1,9 @@
+creat read update deleat 
+
+HTTP Methos
+Post
+Get
+Put/Patch
+Delete
+
+Req--URL
